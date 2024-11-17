@@ -1,0 +1,3 @@
+# Objetivo da aula: 
+	1) Apresentar técnicas de embeddings de palavras, incluindo Word2Vec, GloVe e FastText. 
+	2) Ensinar como utilizá-las para transformar textos em representações vetoriais para PLN. 
